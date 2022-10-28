@@ -21,7 +21,7 @@ permissions:
   contents: write
 
 jobs:
-  on_fix_test:
+  on-fix-test:
     name: On fix test
 
     # We will only run this action when:
